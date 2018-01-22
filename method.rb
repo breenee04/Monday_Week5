@@ -3,6 +3,7 @@ if arr.include?(42)
   else
     answer = "nothing"
   end
+  
 
 
 
